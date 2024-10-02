@@ -68,8 +68,8 @@
   z-index: 2;
   background-image: url(../images/cover.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
   background-position: center;
+  background-size: cover;
 }
 
 .overlay {
@@ -122,9 +122,9 @@
   justify-content: space-between;
   align-items: center;
   margin-top: 135px;
-  color: white;
   padding-right: 50px;
   padding-bottom: 51px;
+  color: white;
 }
 
 .cover__description-text {
@@ -140,11 +140,11 @@
   min-height: 51px;
   border: 1px solid white;
   color: white;
+  font-family: Raleway, sans-serif;
   font-size: 22px;
   text-transform: uppercase;
   background-color: transparent;
   cursor: pointer;
-  font-family: Raleway, sans-serif;
 }
 
 .lots {
