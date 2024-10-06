@@ -24,7 +24,7 @@
 .header__links-list-item {
   font-weight: normal;
   text-wrap: nowrap;
-  word-wrap: break-word;
+  word-wrap: normal;
   text-underline-offset: 3px;
 }
 
