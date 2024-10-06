@@ -2,6 +2,7 @@
   display: grid;
   grid-template-columns: 2fr 1fr 2fr;
   padding: 92px 24px 60px;
+  margin-bottom: 32px;
 }
 
 .header__menu {
